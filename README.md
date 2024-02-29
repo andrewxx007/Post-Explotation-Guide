@@ -331,9 +331,3 @@ Various techniques can be employed for maintaining access in Linux systems, incl
    - Enumerate system information: `uname -a; cat /etc/*-release`
    - View running processes: `ps aux`
    - Check network connections: `netstat -antp`
-
-## Important to know
-
-Post-exploitation in hacking refers to the actions taken by a hacker after successfully compromising a target system or network. It involves key stages such as enumeration, privilege escalation, lateral movement, persistence, data exfiltration, covering tracks, and maintaining access. These stages allow the hacker to gather detailed information, elevate privileges, explore other connected systems, establish long-term access, steal valuable data, remove or modify evidence, and monitor and control the compromised system for future attacks. Post-exploitation is crucial for achieving the hacker's objectives and maintaining control over the compromised systems.
-
-It is important to note that maintaining unauthorized access to a system is illegal and strictly prohibited. This information is provided for educational purposes only to raise awareness about potential security vulnerabilities.
